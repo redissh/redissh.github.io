@@ -20,5 +20,5 @@ Give a ⭐ if you like this website!
 
 ## Quick Peak
 <img alt="Demo1" src="demoimg1.png" />
-<img alt="Demo1" src="" />
-<img alt="Demo1" src="" />
+<img alt="Demo1" src="demoimg2.png" />
+<img alt="Demo1" src="demoimg3.png" />
