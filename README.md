@@ -3,7 +3,8 @@
 </h2>
  
 <a href="https://redissh.github.io" target="_blank"><img src="demoimg1.png" height= "1900px" width= "904px" ></a> 
-<p align="left" (click the image) </p>
+
+<p align="left"> (click the image) </p>
 
 This project was built using:
 
