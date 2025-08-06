@@ -2,7 +2,7 @@
   My Portfolio Website <br/>
 </h2>
  
-<a href="https://redissh.github.io" target="_blank"><img src="demoimg1.png"
+<a href="https://redissh.github.io" target="_blank"><img src="demoimg1.png" height= "1900px" width= "904px" ></a>
 
 This project was built using:
 
