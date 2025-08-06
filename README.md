@@ -1,9 +1,8 @@
 <h2 align="center">
   My Portfolio Website <br/>
 </h2>
-https://redissh.github.io 
-
-<img alt="Demo1" src="demoimg1.png" />
+ 
+<a href="https://redissh.github.io" target="_blank"><img src="demoimg1.png"
 
 This project was built using:
 
