@@ -1,8 +1,6 @@
 <h2 align="center">
   My Portfolio Website <br/>
 </h2>
-
-## #Webite Link:
 https://redissh.github.io 
 
 <img alt="Demo1" src="demoimg1.png" />
