@@ -1,4 +1,4 @@
-## TL;DR
+## https://redissh.github.io 
 
 <img alt="Demo1" src="demoimg1.png" />
 
@@ -9,10 +9,6 @@ This project was built using:
 - JavaScript
 - Visual Studio Code
 - Github Pages
-
-## Project/Webite Link
-
-Link: https://redissh.github.io 
 
 ### Show your support
 
