@@ -4,7 +4,7 @@
  
 <a href="https://redissh.github.io" target="_blank"><img src="demoimg1.png" height= "1900px" width= "904px" ></a> 
 
-<p align="right"><font size="1">(click the image)</font></p>
+<p align="right"><font size="40">(click the image)</font></p>
 
 This project was built using:
 
